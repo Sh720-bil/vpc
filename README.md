@@ -1,2 +1,2 @@
 # vpc
-it ia an private cloud
+for creating an private cloud
